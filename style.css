@@ -1,0 +1,10 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	font-family: Verdana;
+}
+label {
+	display: inline-block;
+	width: 120px;
+	text-align: right;
+}
